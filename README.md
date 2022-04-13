@@ -1,4 +1,4 @@
 # Expenses-chart__react
 
-<img src="https://user-images.githubusercontent.com/84049077/163087676-fa980a1a-b648-4da5-89a2-e7299635ab26.gif"/>
+<img src="https://user-images.githubusercontent.com/84049077/163087918-f8d13991-6c7a-43d6-976c-12596b54070d.gif"/>
 
